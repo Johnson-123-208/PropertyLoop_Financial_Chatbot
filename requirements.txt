@@ -1,0 +1,15 @@
+# Core dependencies for PropertyLoop Chatbot
+pandas>=1.5.0
+numpy>=1.23.0
+jupyter>=1.0.0
+notebook>=6.5.0
+groq>=0.4.0
+python-dotenv>=1.0.0
+
+# Optional: Additional LLM providers (uncomment if needed)
+# openai>=1.0.0
+# langchain>=0.1.0
+
+# Optional: Enhanced data visualization (uncomment if needed)
+# matplotlib>=3.6.0
+# seaborn>=0.12.0
